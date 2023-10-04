@@ -36,13 +36,13 @@ This Texture Pack will be updated if CaptainSparklez sees something he likes, or
 
 Note: Not all textures are available in every version. Please refer to the above link for details.
 
-An * = Requires [OptiFine](https://www.optifine.net/home) or [Entity Model Features](https://modrinth.com/mod/entity-model-features)
+An `*` = Requires [OptiFine](https://www.optifine.net/home) or [Entity Model Features](https://modrinth.com/mod/entity-model-features)
 
 - Pillager Barrel
 - Villager Chest
 - Sharkinghum Cod
 - "Revenge" Creeper
-- "Boomer" Creeper *
+- "Boomer" Creeper `*`
 - Custom Item Names (follow instructions listed above)
 - Custom Death Messages (follow instructions listed above)
 - "You demonetized!" Death Screen (follow instructions listed above)
@@ -58,14 +58,14 @@ An * = Requires [OptiFine](https://www.optifine.net/home) or [Entity Model Featu
 - "Jerry" Edition
 - QC Leather Gear
 - CaptainSparklez Facts Loading Screen for Bedrock Edition
-- CaptainSparklez Logo Loading Screen for Java Edition *
+- CaptainSparklez Logo Loading Screen for Java Edition `*`
 - Fallen Kingdom Panorama Main Menu
 - McLaren Minecart
 - Jord GT Oak Boat
 - Custom Paintings
 - Hummingshark Parrot
 - Fallen Kingdom Pig
-- "Dragonhearted" Piglin Brute *
+- "Dragonhearted" Piglin Brute `*`
 - Reduced Rain/Snow Particles
 - Fallen Kingdom Shield
 - Ianite Snow Fox
