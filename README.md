@@ -26,7 +26,7 @@ The Official CaptainSparklez Texture Pack, used by CaptainSparklez himself. Plen
 
 This Texture Pack will be updated if CaptainSparklez sees something he likes, or if bugs are found. If you have any textures you would like to submit (that are CaptainSparklez related), please mention them to CaptainSparklez through X, Reddit, or Twitch. We are <u>**not**</u> in charge of approving submissions.
 
-# **Textures:**  
+# **Textures**  
 
 ## **Texture Version Compatibility Info:**  
 
@@ -75,7 +75,7 @@ An `*` = Requires [OptiFine](https://www.optifine.net/home) or [Entity Model Fea
 - Fork Trident
 - Jimmy's Turtle Shell
 
-# **Credits:**  
+# **Credits**  
 
 [Click here for credits](https://docs.google.com/spreadsheets/d/1DReWIyxin2cRof8CvqdOS2Z4mWqXR6JrBBX8K-aZ33s/edit?usp=sharing)
 
