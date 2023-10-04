@@ -36,7 +36,7 @@ This Texture Pack will be updated if CaptainSparklez sees something he likes, or
 
 Note: Not all textures are available in every version. Please refer to the above link for details.
 
-An * = Requires OptiFine or Entity Model Features
+An * = Requires [OptiFine](https://www.optifine.net/home) or [Entity Model Features](https://modrinth.com/mod/entity-model-features)
 
 - Pillager Barrel
 - Villager Chest
