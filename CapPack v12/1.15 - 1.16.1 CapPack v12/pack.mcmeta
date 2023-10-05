@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 5,
+    "description": "§cAuthor §8> §eThermicWaffle\n§bcappack.page §8> §d1.15 - 1.16.1"
+  },
+  "language": {
+    "en_cs":{
+	  "name": "CaptainSparklez",
+	  "region": "US",
+	  "bidirectional": false
+	      }
+	  }
+}
