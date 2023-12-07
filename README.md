@@ -14,7 +14,7 @@ The Official CaptainSparklez Texture Pack, used by CaptainSparklez himself. Plen
 
 ## **Supported Minecraft Versions:**  
 
-**Java:** 1.6.1 - 1.20.2
+**Java:** 1.6.1 - 1.20.3
 
 **Bedrock:** All Versions
 
