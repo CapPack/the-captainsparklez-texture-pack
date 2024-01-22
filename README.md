@@ -1,7 +1,7 @@
 <p align="center"><img src="https://cappack.files.wordpress.com/2022/09/cappack-1.png?resize=219%2C219" alt="Logo" width="200"></p>
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/muddyCookie/the-captainsparklez-texture-pack/total?style=flat&logo=github&label=Downloads%20(all%20releases))
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/muddyCookie/the-captainsparklez-texture-pack/latest/total?sort=date&style=flat&logo=github&label=Download%20(latest%20release))
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/muddyCookie/the-captainsparklez-texture-pack/latest/total?sort=date&style=flat&logo=github&label=Downloads%20(latest%20release))
 ![CurseForge Downloads](https://img.shields.io/curseforge/dt/546646?style=flat&label=CurseForge%20Downloads%20(Java%20Edition))
 ![CurseForge Downloads](https://img.shields.io/curseforge/dt/634015?style=flat&label=CurseForge%20Downloads%20(Bedrock%20Edition))
 
