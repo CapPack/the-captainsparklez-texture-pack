@@ -5,13 +5,8 @@
 ![CurseForge Downloads](https://img.shields.io/curseforge/dt/546646?style=flat&logo=curseforge&label=Downloads%20(Java%20Edition))
 ![CurseForge Downloads](https://img.shields.io/curseforge/dt/634015?style=flat&logo=curseforge&label=Downloads%20(Bedrock%20Edition))
 
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/ARED1l1P?style=flat-square&logo=modrinth&label=Download%20(Java%20Edition))
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/ARED1l1P?style=for-the-badge&logo=modrinth&label=Downloads)
 
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/ARED1l1P?style=plastic&logo=modrinth&label=Download%20(Java%20Edition))
-
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/ARED1l1P?style=for-the-badge&logo=modrinth&label=Download%20(Java%20Edition))
-
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/ARED1l1P?style=social&logo=modrinth&label=Download%20(Java%20Edition))
 
 
 
