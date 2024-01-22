@@ -1,7 +1,7 @@
 <p align="center"><img src="https://cappack.files.wordpress.com/2022/09/cappack-1.png?resize=219%2C219" alt="Logo" width="200"></p>
 
-<p align="center">![GitHub Downloads (all Minecraft releases, all CapPack releases)](https://img.shields.io/github/downloads/muddyCookie/the-captainsparklez-texture-pack/total)</p>
-<p align="center">![GitHub Downloads (all Minecraft releases, latest CapPack release)](https://img.shields.io/github/:variant/muddyCookie/the-captainsparklez-texture-pack/latest/total)</p>
+![GitHub Downloads (all Minecraft releases, all CapPack releases)](https://img.shields.io/github/downloads/muddyCookie/the-captainsparklez-texture-pack/total)
+<p align="center"> ![GitHub Downloads (all Minecraft releases, latest CapPack release)](https://img.shields.io/github/:variant/muddyCookie/the-captainsparklez-texture-pack/latest/total) </p>
 
 # **CapPack**  
 
