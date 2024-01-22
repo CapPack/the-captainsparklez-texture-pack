@@ -20,9 +20,9 @@ The Official CaptainSparklez Texture Pack, used by CaptainSparklez himself. Plen
 
 ## **Current CapPack Version:**  
 
-**Java:** v12
+**Java:** v13
 
-**Bedrock:** v12
+**Bedrock:** v13
 
 ## **Update Information:**  
 
@@ -67,7 +67,8 @@ An `*` = Requires [OptiFine](https://www.optifine.net/home) or [Entity Model Fea
 - Custom Paintings
 - Hummingshark Parrot
 - Fallen Kingdom Pig
-- "Dragonhearted" Piglin Brute `*`
+- "Dragonhearted" Piglin Brute v12 `*`
+- Commander Piglin Brute v13
 - Reduced Rain/Snow Particles
 - Fallen Kingdom Shield
 - Ianite Snow Fox
@@ -76,6 +77,7 @@ An `*` = Requires [OptiFine](https://www.optifine.net/home) or [Entity Model Fea
 - Totem of Un-unaliving
 - Fork Trident
 - Jimmy's Turtle Shell
+- Battle Ghast `*`
 
 # **Credits**  
 
