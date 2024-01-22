@@ -1,5 +1,14 @@
 <p align="center"><img src="https://cappack.files.wordpress.com/2022/09/cappack-1.png?resize=219%2C219" alt="Logo" width="200"></p>
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/muddyCookie/the-captainsparklez-texture-pack/total?style=for-the-badge&logo=github&label=Downloads%20(all%20releases))
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/muddyCookie/the-captainsparklez-texture-pack/latest/total?sort=date&style=for-the-badge&logo=github&label=Downloads%20(latest%20release))
+![CurseForge Downloads](https://img.shields.io/curseforge/dt/546646?style=for-the-badge&logo=curseforge&label=Downloads%20(Java%20Edition))
+![CurseForge Downloads](https://img.shields.io/curseforge/dt/634015?style=for-the-badge&logo=curseforge&label=Downloads%20(Bedrock%20Edition))
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/ARED1l1P?style=for-the-badge&logo=modrinth&label=Downloads)
+
+
+
+
 # **CapPack**  
 
 The Official CaptainSparklez Texture Pack, used by CaptainSparklez himself. Plenty of custom textures, splash texts and fun features you won't find anywhere else. Oh, and it reduces rain particles without the need for OptiFine :P. Community inspired and made. The perfect texture pack for any CaptainSparklez fan, loved by all.
