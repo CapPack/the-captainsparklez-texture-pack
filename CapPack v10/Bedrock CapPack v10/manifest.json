@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "§bSite §8> §cthermic.icu/cappack \n§bAuthor §8> §eThermicWaffle \n§bCompiled §8> §amuddyCookie",
+    "name": "CapPack Bedrock Edition",
+    "platform_locked": false,
+    "uuid": "271aebf6-6146-11ec-90d6-0242ac120003",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "§bSite §8> §cthermic.icu/cappack \n§bAuthor §8> §eThermicWaffle \n§bCompiled §8> §amuddyCookie",
+      "type": "resources",
+      "uuid": "2d3815cc-6146-11ec-90d6-0242ac120003",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
