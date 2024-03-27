@@ -76,8 +76,7 @@ An `*` = Requires [OptiFine](https://www.optifine.net/home) or [Entity Model Fea
 - Custom Paintings
 - Hummingshark Parrot
 - Fallen Kingdom Pig
-- "Dragonhearted" Piglin Brute v12 `*`
-- Commander Piglin Brute v13
+- Commander Piglin Brute
 - Reduced Rain/Snow Particles
 - Fallen Kingdom Shield
 - Ianite Snow Fox
