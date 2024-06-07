@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cappack.files.wordpress.com/2022/09/cappack-1.png?resize=219%2C219" alt="Logo" width="200"></p>
+<p align="center"><img src="[https://cappack.files.wordpress.com/2022/09/cappack-1.png?resize=219%2C219](https://cappack.page/assets/CapPack-CqS9IRfN.png)" alt="Logo" width="200"></p>
 
 # **CapPack**  
 
