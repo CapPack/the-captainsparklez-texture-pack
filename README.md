@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cappack.page/wp-content/uploads/2022/09/cappack-1.png?resize=219%2C219" alt="Logo" width="200"></p>
+<p align="center"><img src="https://cappack.page/assets/CapPack-CqS9IRfN.png" alt="Logo" width="200"></p>
 
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/CapPack/the-captainsparklez-texture-pack/total?style=for-the-badge&logo=github&label=all%20releases)](https://github.com/CapPack/the-captainsparklez-texture-pack/releases)
 [![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/CapPack/the-captainsparklez-texture-pack/latest/total?sort=date&style=for-the-badge&logo=github&label=latest%20release)](https://github.com/CapPack/the-captainsparklez-texture-pack/releases/tag/v13)
