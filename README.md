@@ -23,15 +23,15 @@ The Official CaptainSparklez Texture Pack, used by CaptainSparklez himself. Plen
 
 ## **Supported Minecraft Versions:**  
 
-**Java:** 1.6.1 - 1.20.4
+**Java:** 1.6.1 - 1.21.8
 
-**Bedrock:** All Versions
+**Bedrock:** In Progress
 
 ## **Current CapPack Version:**  
 
-**Java:** v13
+**Java:** v14
 
-**Bedrock:** v13
+**Bedrock:** v14
 
 ## **Update Information:**  
 
@@ -72,7 +72,8 @@ An `*` = Requires [OptiFine](https://www.optifine.net/home) or [Entity Model Fea
 - CaptainSparklez Logo Loading Screen for Java Edition `*`
 - Fallen Kingdom Panorama Main Menu
 - McLaren Minecart
-- Jord GT Oak Boat
+- Car Boat
+- Lightning McFeet Raft
 - Custom Paintings
 - Hummingshark Parrot
 - Fallen Kingdom Pig
@@ -85,7 +86,7 @@ An `*` = Requires [OptiFine](https://www.optifine.net/home) or [Entity Model Fea
 - Totem of Un-unaliving
 - Fork Trident
 - Jimmy's Turtle Shell
-- Battle Ghast `*`
+- Happy Battle Ghast `*`
 
 # **Credits**  
 
