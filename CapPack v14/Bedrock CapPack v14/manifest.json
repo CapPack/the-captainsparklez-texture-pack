@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§eThermicWaffle §7| §amuddyCookie\n§dLudumancer §7| §bwww.cappack.page",
+        "name": "Bedrock CapPack v14",
+        "uuid": "23fb5095-1e50-49d9-b98b-fe64abdeea31",
+        "version": [14, 0, 0],
+        "min_engine_version": [ 1, 20, 30 ]
+    },
+    "modules": [
+        {
+            "description": "§eThermicWaffle §7| §amuddyCookie\n§dLudumancer §7| §bwww.cappack.page",
+            "type": "resources",
+            "uuid": "04e77699-53b4-45aa-afe5-9b5143443b89",
+            "version": [14, 0, 0]
+        }
+    ]
+}

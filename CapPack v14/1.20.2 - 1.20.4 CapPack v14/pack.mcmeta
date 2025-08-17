@@ -1,0 +1,14 @@
+{
+  "pack": {
+	"pack_format": 22,
+	"supported_formats": [18, 22],
+    "description": "§eThermicWaffle §7| §amuddyCookie\n§dLudumancer §7| §bwww.cappack.page"
+  },
+  "language": {
+    "en_cs":{
+	  "name": "CaptainSparklez",
+	  "region": "US",
+	  "bidirectional": false
+	      }
+	  }
+}

@@ -1,0 +1,17 @@
+{
+   "texture_data" : {
+      "dispenser_side" : {
+         "textures" : "textures/blocks/dispenser_side"
+      },
+      "dispenser_top" : {
+         "textures" : "textures/blocks/dispenser_top"
+      },
+      "dropper_side" : {
+         "textures" : "textures/blocks/dropper_side"
+      },
+      "dropper_top" : {
+         "textures" : "textures/blocks/dropper_top"
+      }
+   }
+}
+

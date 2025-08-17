@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 7,
+    "description": "§eThermicWaffle §8> §amuddyCookie\n§bcappack.page §8> §d1.17 - 1.17.1"
+  },
+  "language": {
+    "en_cs":{
+	  "name": "CaptainSparklez",
+	  "region": "US",
+	  "bidirectional": false
+	      }
+	  }
+}

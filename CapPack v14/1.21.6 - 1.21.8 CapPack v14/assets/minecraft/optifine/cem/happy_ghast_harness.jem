@@ -1,0 +1,143 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "goggles",
+			"id": "goggles",
+			"invertAxis": "xy",
+			"translate": [0, -10, 5.5],
+			"scale": 1,
+			"boxes": [
+				{"coordinates": [-8, 7.5, -8, 16, 5, 5], "textureOffset": [0, 32], "sizeAdd": 0.15}
+			]
+		},
+		{
+			"part": "root",
+			"id": "root",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"scale": 1
+		},
+		{
+			"part": "harness",
+			"id": "harness",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"scale": 1,
+			"boxes": [
+				{"coordinates": [-8, 0, -8, 16, 16, 16], "textureOffset": [0, 0]}
+			],
+			"submodels": [
+				{
+					"id": "cannonL",
+					"invertAxis": "xy",
+					"translate": [9.125, 2.5, 1],
+					"texture": "textures/entity/equipment/happy_ghast_body/white_harness.png",
+					"textureSize": [64, 64],
+					"boxes": [
+						{
+							"coordinates": [-1, 5, -5, 6, 1, 11],
+							"uvNorth": [3, 43.5, 9, 44.5],
+							"uvEast": [18, 53, 29, 54],
+							"uvSouth": [11, 53, 17, 54],
+							"uvWest": [18, 53, 29, 54],
+							"uvUp": [18, 53, 12, 42],
+							"uvDown": [18, 42, 12, 53]
+						},
+						{
+							"coordinates": [0, 0, -4, 5, 5, 9],
+							"uvNorth": [3, 44.5, 8, 49.5],
+							"uvEast": [34, 10, 44, 15],
+							"uvSouth": [12, 54, 17, 59],
+							"uvWest": [49, 10, 59, 15],
+							"uvUp": [42.5, 30, 37.5, 20],
+							"uvDown": [54, 0, 49, 10]
+						},
+						{
+							"coordinates": [0, -1, -5, 6, 1, 11],
+							"uvNorth": [2, 49.5, 8, 50.5],
+							"uvEast": [0, 59, 11, 60],
+							"uvSouth": [12, 59, 18, 60],
+							"uvWest": [0, 59, 11, 60],
+							"uvUp": [24, 53, 18, 42],
+							"uvDown": [24, 42, 18, 53]
+						},
+						{
+							"coordinates": [5, 0, -5, 1, 6, 11],
+							"uvNorth": [2, 43.5, 3, 49.5],
+							"uvEast": [0, 53, 11, 59],
+							"uvSouth": [17, 53, 18, 59],
+							"uvWest": [0, 53, 11, 59],
+							"uvUp": [12, 53, 11, 42],
+							"uvDown": [12, 42, 11, 53]
+						},
+						{
+							"coordinates": [-1, -1, -5, 1, 6, 11],
+							"uvNorth": [8, 44.5, 9, 50.5],
+							"uvEast": [18, 54, 29, 60],
+							"uvSouth": [11, 54, 12, 60],
+							"uvWest": [18, 54, 29, 60],
+							"uvUp": [25, 53, 24, 42],
+							"uvDown": [25, 42, 24, 53]
+						}
+					]
+				},
+				{
+					"id": "cannonR",
+					"invertAxis": "xy",
+					"translate": [-14.125, 2.5, 1],
+					"texture": "textures/entity/equipment/happy_ghast_body/white_harness.png",
+					"textureSize": [64, 64],
+					"boxes": [
+						{
+							"coordinates": [-1, 5, -5, 6, 1, 11],
+							"uvNorth": [3, 43.5, 9, 44.5],
+							"uvEast": [18, 53, 29, 54],
+							"uvSouth": [11, 53, 17, 54],
+							"uvWest": [18, 53, 29, 54],
+							"uvUp": [18, 53, 12, 42],
+							"uvDown": [18, 42, 12, 53]
+						},
+						{
+							"coordinates": [0, 0, -4, 5, 5, 9],
+							"uvNorth": [3, 44.5, 8, 49.5],
+							"uvEast": [34, 10, 44, 15],
+							"uvSouth": [12, 54, 17, 59],
+							"uvWest": [49, 10, 59, 15],
+							"uvUp": [42.5, 30, 37.5, 20],
+							"uvDown": [54, 0, 49, 10]
+						},
+						{
+							"coordinates": [0, -1, -5, 6, 1, 11],
+							"uvNorth": [2, 49.5, 8, 50.5],
+							"uvEast": [0, 59, 11, 60],
+							"uvSouth": [12, 59, 18, 60],
+							"uvWest": [0, 59, 11, 60],
+							"uvUp": [24, 53, 18, 42],
+							"uvDown": [24, 42, 18, 53]
+						},
+						{
+							"coordinates": [5, 0, -5, 1, 6, 11],
+							"uvNorth": [2, 43.5, 3, 49.5],
+							"uvEast": [0, 53, 11, 59],
+							"uvSouth": [17, 53, 18, 59],
+							"uvWest": [0, 53, 11, 59],
+							"uvUp": [12, 53, 11, 42],
+							"uvDown": [12, 42, 11, 53]
+						},
+						{
+							"coordinates": [-1, -1, -5, 1, 6, 11],
+							"uvNorth": [8, 44.5, 9, 50.5],
+							"uvEast": [18, 54, 29, 60],
+							"uvSouth": [11, 54, 12, 60],
+							"uvWest": [18, 54, 29, 60],
+							"uvUp": [25, 53, 24, 42],
+							"uvDown": [25, 42, 24, 53]
+						}
+					]
+				}
+			]
+		}
+	]
+}
