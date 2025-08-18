@@ -1,7 +1,7 @@
 <p align="center"><img src="https://cappack.page/assets/CapPack-CqS9IRfN.png" alt="Logo" width="200"></p>
 
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/CapPack/the-captainsparklez-texture-pack/total?style=for-the-badge&logo=github&label=all%20releases)](https://github.com/CapPack/the-captainsparklez-texture-pack/releases)
-[![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/CapPack/the-captainsparklez-texture-pack/latest/total?sort=date&style=for-the-badge&logo=github&label=latest%20release)](https://github.com/CapPack/the-captainsparklez-texture-pack/releases/tag/v13)
+[![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/CapPack/the-captainsparklez-texture-pack/latest/total?sort=date&style=for-the-badge&logo=github&label=latest%20release)](https://github.com/CapPack/the-captainsparklez-texture-pack/releases/tag/v14)
 [![CurseForge Downloads](https://img.shields.io/curseforge/dt/546646?style=for-the-badge&logo=curseforge&label=Java%20Edition)](https://www.curseforge.com/minecraft/texture-packs/the-captainsparklez-texture-pack/files/all?page=1&pageSize=20)
 [![CurseForge Downloads](https://img.shields.io/curseforge/dt/634015?style=for-the-badge&logo=curseforge&label=Bedrock%20Edition)](https://www.curseforge.com/minecraft-bedrock/addons/the-captainsparklez-texture-pack/files/all?page=1&pageSize=20)
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/ARED1l1P?style=for-the-badge&logo=modrinth&label=Both%20editions)](https://modrinth.com/resourcepack/the-captainsparklez-texture-pack/versions)
