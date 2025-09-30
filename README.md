@@ -23,7 +23,7 @@ The Official CaptainSparklez Texture Pack, used by CaptainSparklez himself. Plen
 
 ## **Supported Minecraft Versions:**  
 
-**Java:** 1.6.1 - 1.21.8
+**Java:** 1.6.1 - 1.21.9
 
 **Bedrock:** 1.21.101
 
@@ -49,44 +49,46 @@ Note: Not all textures are available in every version. Please refer to the above
 
 An `*` = Requires [OptiFine](https://www.optifine.net/home) or [Entity Model Features](https://modrinth.com/mod/entity-model-features)
 
-- Pillager Barrel
-- Villager Chest
-- Sharkinghum Cod
-- "Revenge" Creeper
 - "Boomer" Creeper `*`
-- Custom Item Names (follow instructions listed above)
-- Custom Death Messages (follow instructions listed above)
+- "How to Kill a Slime" Enchantment Table Book
+- "Jerry" Edition
+- "Revenge" Creeper
 - "You demonetized!" Death Screen (follow instructions listed above)
 - Bluephones Diamond Helmet
-- QC Diamond Leggings
 - CaptainBarklez Dog
-- "How to Kill a Slime" Enchantment Table Book
-- Wandering Trader Ender Chest
-- Frienderman
-- Pista Furnace
-- Witch Hopper
-- Golemnator
-- "Jerry" Edition
-- QC Leather Gear
 - CaptainSparklez Facts Loading Screen for Bedrock Edition
 - CaptainSparklez Logo Loading Screen for Java Edition `*`
-- Fallen Kingdom Panorama Main Menu
-- McLaren Minecart
-- Car Boat
-- Lightning McFeet Raft
-- Custom Paintings
-- Hummingshark Parrot
-- Fallen Kingdom Pig
+- Car Boats
 - Commander Piglin Brute
-- Reduced Rain/Snow Particles
-- Fallen Kingdom Shield
-- Ianite Snow Fox
+- Custom Death Messages (follow instructions listed above)
+- Custom Item Names (follow instructions listed above)
+- Custom Paintings
 - Custom Splash Texts
-- Jordan Sun
-- Totem of Un-unaliving
+- Fallen Kingdom Panorama Main Menu
+- Fallen Kingdom Pig
+- Fallen Kingdom Shield
 - Fork Trident
-- Jimmy's Turtle Shell
+- Frienderman
+- Golemnator
 - Happy Battle Ghast `*`
+- Hoglin Burps
+- Hummingshark Parrot
+- Ianite Snow Fox
+- Jimmy's Turtle Shell
+- Jordan Sun
+- Lightning McFeet Raft
+- McLaren Minecart
+- Pillager Barrel
+- Pista Furnace
+- QC Diamond Leggings
+- QC Leather Gear
+- Reduced Rain/Snow Particles
+- Sharkinghum Cod
+- Totem of Un-unaliving
+- Villager Chest
+- Wandering Trader Ender Chest
+- Witch Hopper
+- Zombie Villager Copper Chest
 
 # **Credits**  
 
