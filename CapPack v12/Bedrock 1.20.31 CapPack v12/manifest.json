@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§bSite §8> §ccappack.page \n§bAuthor §8> §eThermicWaffle \n§bCompiled §8> §amuddyCookie",
+        "name": "Bedrock CapPack v12",
+        "uuid": "0c650cc9-8b35-4174-937c-821a7f53f92c",
+        "version": [12, 0, 0],
+        "min_engine_version": [ 1, 20, 30 ]
+    },
+    "modules": [
+        {
+            "description": "§bSite §8> §cthermic.icu/cappack \n§bAuthor §8> §eThermicWaffle \n§bCompiled §8> §amuddyCookie",
+            "type": "resources",
+            "uuid": "c04f31a5-2f6c-4347-a35f-5cceb792be04",
+            "version": [12, 0, 0]
+        }
+    ]
+}
