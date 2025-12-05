@@ -1,4 +1,4 @@
-{																																																									   
+{																																																									
   "death.attack.anvil.player": "%1$s was unalived by a falling anvil while fighting %2$s",
   "death.attack.anvil": "%1$s was unalived by a falling anvil",
   "death.attack.arrow.item": "%1$s was unalived with an arrow by %2$s using %3$s",
@@ -70,6 +70,8 @@
   "death.attack.sonic_boom.item": "%1$s was unalived by a sonically-charged shriek while trying to escape %2$s wielding %3$s",
   "death.attack.sonic_boom.player": "%1$s was unalived by a sonically-charged shriek while trying to escape %2$s",
   "death.attack.sonic_boom": "%1$s was unalived by a sonically-charged shriek",
+  "death.attack.spear": "%1$s was speared to unalive by %2$s",
+  "death.attack.spear.item": "%1$s was speared to unalive by %2$s using %3$s",
   "death.attack.stalagmite.player": "%1$s was unalived on a stalagmite while fighting %2$s",
   "death.attack.stalagmite": "%1$s was unalived on a stalagmite",
   "death.attack.starve.player": "%1$s starved to unalive while fighting %2$s",
@@ -167,6 +169,7 @@
   "item.minecraft.totem_of_undying": "Totem of Un-unaliving",
   "item.minecraft.trident": "Fork Trident",
   "item.minecraft.turtle_helmet": "Jimmy's Turtle Shell",
+  "item.minecraft.white_harness": "Battle Ghast Harness",
   
   "entity.minecraft.acacia_chest_boat": "Porsche Boat with Villager Chest",
   "entity.minecraft.bamboo_chest_raft": "Lightning McFeet Boat with Villager Chest",

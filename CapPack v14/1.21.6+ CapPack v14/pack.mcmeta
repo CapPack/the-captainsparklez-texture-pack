@@ -3,7 +3,7 @@
     "pack_format": 64,
 	"supported_formats": [63,64],
 	"min_format": 63,
-	"max_format": 70,
+	"max_format": 200,
     "description": "§eThermicWaffle §7| §amuddyCookie\n§dLudumancer §7| §bwww.cappack.page"
   },
   "language": {
