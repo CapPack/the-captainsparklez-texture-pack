@@ -16,6 +16,7 @@ death.attack.arrow=%1$s was unalived with an arrow by %2$s
 death.attack.bullet=%1$s was sniped by %2$s and unalived
 death.attack.cactus.player=%1$s unalived by a cactus whilst trying to escape %2$s
 death.attack.cactus=%1$s was pricked to unalive
+death.attack.dehydration=%1$s unalived from dehydration
 death.attack.drown.player=%1$s unalived in water whilst trying to escape %2$s
 death.attack.drown=%1$s unalived in water
 death.attack.explosion.by.bed=%1$s was unalived because of Intentional Game Design
@@ -107,6 +108,8 @@ item.leather_helmet.name=QC Leather Helmet
 item.leather_boots.name=QC Leather Boots
 item.leather_chestplate.name=QC Leather Chestplate
 item.leather_leggings.name=QC Leather Leggings
+item.white_harness.name=Battle Ghast Harness
+
 
 item.fish.name=Raw Sharkinghum Cod
 item.bucketFish.name=Bucket of Sharkinghum Cod
