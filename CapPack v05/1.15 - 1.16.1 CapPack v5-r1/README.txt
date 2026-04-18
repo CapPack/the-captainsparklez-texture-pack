@@ -1,5 +1,5 @@
 CapPack v5 (May 2020)
-CapPack v5-r1 (February 2026)
+CapPack v5-r1 (April 2026)
 
 Devs:
 - ThermicWaffle
